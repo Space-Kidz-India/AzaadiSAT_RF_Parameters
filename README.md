@@ -1,3 +1,6 @@
+Know more about this mission at
+https://www.spacekidzindia.in/azaadisat/
+
 AzaadiSAT - LoRa Parameters:
 Carrier Frequency: 437.4 Mhz
 Bandwidth: 125.0 kHz
